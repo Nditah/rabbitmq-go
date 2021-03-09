@@ -2,7 +2,7 @@
 
 1. Initialize a new module
 
-    ```go mod init rabbitmg-go ```
+    ```go mod init rabbitmq-go ```
     ```  go mod tidy ```
 
 2. Start RabbitMQ from a Docker image.
